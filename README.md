@@ -4,7 +4,7 @@ Based on course: https://www.udemy.com/react-redux/
 
 ### Used Technologies
 
-JS6, react, babel, webpack, lodash, youtube search api
+ES6, react, babel, webpack, lodash, youtube search api
 
 ### Getting Started
 
